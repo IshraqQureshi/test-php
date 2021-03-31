@@ -1,4 +1,5 @@
 <?php
+  $x = 10;
   $_TMP_array = [];
   if(isset($_POST['submit']))
   {
